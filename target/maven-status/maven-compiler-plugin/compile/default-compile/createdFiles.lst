@@ -1,0 +1,14 @@
+mx\gob\rtc\servicios\seguridad\web\SeguridadController.class
+mx\gob\rtc\servicios\seguridad\services\SeguridadServiceImpl.class
+mx\gob\rtc\servicios\seguridad\entities\Usuario.class
+mx\gob\rtc\servicios\seguridad\entities\Rol.class
+mx\gob\rtc\servicios\seguridad\SecurityServiceApplication.class
+mx\gob\rtc\servicios\seguridad\entities\UsuarioRol.class
+mx\gob\rtc\servicios\seguridad\SecurityConfig.class
+mx\gob\rtc\servicios\seguridad\services\SeguridadService.class
+mx\gob\rtc\servicios\seguridad\JWTAuthorizationFilter.class
+mx\gob\rtc\servicios\seguridad\repositories\RolRepository.class
+mx\gob\rtc\servicios\seguridad\UserInformation.class
+mx\gob\rtc\servicios\seguridad\JWTAuthenticationFilter.class
+mx\gob\rtc\servicios\seguridad\repositories\UsuarioRepository.class
+mx\gob\rtc\servicios\seguridad\SecurityConstants.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.gob.rtc.servicios.seguridad.SeguridadServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.84 s - in mx.gob.rtc.servicios.seguridad.SeguridadServiceApplicationTests
